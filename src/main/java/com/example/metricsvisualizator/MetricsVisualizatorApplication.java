@@ -28,7 +28,7 @@ import java.util.logging.Logger;
 public class MetricsVisualizatorApplication {
 	private static final Logger LOGGER =
 			Logger.getLogger(String.valueOf(MetricsVisualizatorApplication.class));
-	static final String path = "http://localhost:8081/";
+	static final String path = "http://212.111.85.62:8081/";
 
 	private static final Color BACKGROUND_COLOR = new Color(255,228,196);
 	private static final int FRAME_WIDTH = 800;
